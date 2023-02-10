@@ -1,0 +1,3 @@
+D:/lalamarjas/cmake-build-debug/CMakeFiles/lalamarjas.dir
+D:/lalamarjas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/lalamarjas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

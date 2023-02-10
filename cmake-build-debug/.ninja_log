@@ -1,0 +1,25 @@
+# ninja log v5
+1123	1673	6925384492342972	ajajaja.exe	a10a205c297d09f3
+10	512	6925398031928745	CMakeFiles/lalamarjas.dir/pet.c.obj	d1bbe52376c53b45
+1	520	6925398032044454	CMakeFiles/lalamarjas.dir/main.c.obj	e76c8b7cdd163333
+6	526	6925398032095585	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+526	921	6925398036017753	lalamarjas.exe	1b72dc8b884eb16d
+6	768	6925409501864732	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+56	776	6925409501959994	CMakeFiles/lalamarjas.dir/pet.c.obj	d1bbe52376c53b45
+777	1381	6925409507976870	lalamarjas.exe	1b72dc8b884eb16d
+9	239	6925411252725333	CMakeFiles/lalamarjas.dir/pet.c.obj	d1bbe52376c53b45
+4	261	6925411252915840	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+262	686	6925411257084454	lalamarjas.exe	1b72dc8b884eb16d
+3	201	6925412810720599	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+9	202	6925412810730322	CMakeFiles/lalamarjas.dir/pet.c.obj	d1bbe52376c53b45
+6	299	6925412811705144	CMakeFiles/lalamarjas.dir/main.c.obj	e76c8b7cdd163333
+299	643	6925412815084346	lalamarjas.exe	1b72dc8b884eb16d
+3	782	6925416604089499	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+783	1387	6925416610120671	lalamarjas.exe	1b72dc8b884eb16d
+13	250	6925417360280594	CMakeFiles/lalamarjas.dir/pet.c.obj	d1bbe52376c53b45
+5	255	6925417360325834	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+255	518	6925417362949904	lalamarjas.exe	1b72dc8b884eb16d
+51	1063	6925552497970220	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+1102	1921	6925552506519719	lalamarjas.exe	1b72dc8b884eb16d
+3	999	6925613540914598	CMakeFiles/lalamarjas.dir/pessoa.c.obj	8623838c3c1ef3ca
+1000	1743	6925613548309453	lalamarjas.exe	1b72dc8b884eb16d
